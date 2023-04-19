@@ -1,0 +1,48 @@
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\popap\OneDrive\Рабочий стол\экз\тер и удов\1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\App.g.cs
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\pr-15-ShustovK\Desktop\имя фамилия телефон 1 13\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\bin\Debug\WpfApp1.exe.config
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\bin\Debug\WpfApp1.exe
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\bin\Debug\WpfApp1.pdb
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\MainWindow.g.cs
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\App.g.cs
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\MainWindow.baml
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1.g.resources
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1.exe
+C:\Users\pr-15-ShustovK\Desktop\Новая папка\examen\obj\Debug\WpfApp1.pdb
